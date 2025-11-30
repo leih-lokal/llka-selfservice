@@ -2,6 +2,8 @@
 
 Modern self-service terminal for a library of things built with Next.js, React and PocketBase.
 
+![Screenshot](sshot.png)
+
 ## Tech Stack
 
 - **Frontend**: Next.js 15 (App Router), React 19, TypeScript
